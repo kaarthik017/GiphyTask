@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    padding: 2px;
+    color: white;
+}
+img{
+    margin-left: 38%;
+    margin-right: 38%;
+}
+.word{
+    text-align: center;
+    color: crimson;
+    padding: 5px;
+    font-size: 30px;
+    /* border: 1px solid black; */
+}
+button{
+    text-align: center;
+    margin-left: 48%;
+    margin-right: 45%;
+}
